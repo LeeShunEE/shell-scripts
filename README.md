@@ -2,7 +2,7 @@
 
 常用 shell 脚本集合。
 
-## crowdsec
+## CrowdSec install
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/LeeShunEE/shell-scripts/main/security/install-crowdsec.sh | sudo bash
