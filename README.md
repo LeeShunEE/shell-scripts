@@ -1,10 +1,12 @@
 # shell-scripts
 
-常用 shell 脚本集合，按用途分目录存放。
+常用 shell 脚本集合。
 
-| 目录 | 说明 |
-|------|------|
-| [security](security/) | 安全相关脚本 |
+## crowdsec
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/LeeShunEE/shell-scripts/main/security/install-crowdsec.sh | sudo bash
+```
 
 ## License
 
